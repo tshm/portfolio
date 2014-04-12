@@ -2,17 +2,21 @@
 layout: index
 ---
 
-## Web Application: md5html
+## Web Application: [md5html](http://tshm.github.io/md5html)
+Single page web application for calculating MD5 for
+given files.
 
-contents
+Used: AngularJS, html5, Bootstrap, Yeoman
 
-## Web Application: GaussianMixtureEM
+## Web Application: [GaussianMixtureEM](http://tshm.github.io/GaussianMixtureEM)
+Single page web application for fitting Mixed
+Gaussian distribution using ExpectationMaximization technique.
 
-cont2
+Used: AngularJS, html5, CoffeeScript, Bootstrap, Yeoman
 
 ## Web Framework Contribution: todomvc
 I contributed [AgilityJs](http://agilityjs.com/) implementation for
-[TodoMVC](http://addyosmani.github.com/todomvc)
+[TodoMVC](http://todomvc.com/)
 project.
 
 ## StackOverflow Reputation
