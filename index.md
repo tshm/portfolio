@@ -25,6 +25,10 @@ questions at
 [StackOverflow](http://stackoverflow.com/users/1238847/tosh-shimayama)
 and received over 9000 reputation points.
 
+<a href="http://stackoverflow.com/users/1238847/tosh-shimayama">
+<img src="http://stackoverflow.com/users/flair/1238847.png" width="208" height="58" alt="profile for tosh shimayama at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for tosh shimayama at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+
 ## Others
 Other works can be viewed at my github repository list page.
 Including:
