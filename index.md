@@ -6,17 +6,17 @@ layout: index
 Single page web application for calculating MD5 for
 given files.
 
-Used: AngularJS, html5, Bootstrap, Yeoman
+Used: Javascript/AngularJS, html5, Bootstrap, Yeoman/NPM/Grunt
 
-![screenshot of md5html webpage](image/md5html.png)
+![screenshot of md5html webpage](image/md5html.png =300x)
 
 ## Web Application: [GaussianMixtureEM](http://tshm.github.io/GaussianMixtureEM)
 Single page web application for fitting Mixed
 Gaussian distribution using ExpectationMaximization technique.
 
-Used: AngularJS, html5, CoffeeScript, Bootstrap, Yeoman
+Used: Javascript/AngularJS, html5/Jade, CoffeeScript, Bootstrap, Yeoman/NPM/Grunt
 
-![screenshot of GaussianMixtureEM webpage](image/GaussianMixtureEM.png)
+![screenshot of GaussianMixtureEM webpage](image/GaussianMixtureEM.png =300x)
 
 ## Web Framework Contribution: todomvc
 I contributed [AgilityJs](http://agilityjs.com/) implementation for
@@ -38,7 +38,7 @@ Other works can be viewed at my github repository list page.
 Including:
 
 * Java programming
-* Learning samples for Haskell
+* Learning excersize for Haskell
 * Vim plugin
-* C++ codes
+* C++ math library
 * etc.
