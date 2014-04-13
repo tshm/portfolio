@@ -6,22 +6,27 @@ layout: index
 Single page web application for calculating MD5 for
 given files.
 
-Used: Javascript/AngularJS, html5, Bootstrap, Yeoman/NPM/Grunt
+Used: Javascript/AngularJS, HTML5, Bootstrap, Yeoman/NPM/Grunt
 
-![screenshot of md5html webpage](image/md5html.png =300x)
+<img src="image/md5html.png" alt="screenshot of md5html webpage" width="300px">
 
 ## Web Application: [GaussianMixtureEM](http://tshm.github.io/GaussianMixtureEM)
 Single page web application for fitting Mixed
 Gaussian distribution using ExpectationMaximization technique.
 
-Used: Javascript/AngularJS, html5/Jade, CoffeeScript, Bootstrap, Yeoman/NPM/Grunt
+Used: Javascript/AngularJS, HTML5/Jade, CoffeeScript, Bootstrap, Yeoman/NPM/Grunt
 
-![screenshot of GaussianMixtureEM webpage](image/GaussianMixtureEM.png =300x)
+<img src="image/GaussianMixtureEM.png" alt="screenshot of GaussianMixtureEM webpage" width="300px">
 
-## Web Framework Contribution: todomvc
+## OpenSource Project Contribution: TodoMVC
 I contributed [AgilityJs](http://agilityjs.com/) implementation for
 [TodoMVC](http://todomvc.com/)
 project.
+
+Used: Javascript/AgilityJs/JQuery, HTML5
+
+<img src="image/TodoMVC.png" alt="screenshot of TodoMVC webpage" width="300px">
+
 
 ## StackOverflow Reputation
 I have been providing answer to `Javascript`/`AngularJS` related
