@@ -8,7 +8,7 @@ given files.
 
 Used: AngularJS, html5, Bootstrap, Yeoman
 
-![screenshot of md5html webpage](/image/md5html.png)
+![screenshot of md5html webpage](image/md5html.png)
 
 ## Web Application: [GaussianMixtureEM](http://tshm.github.io/GaussianMixtureEM)
 Single page web application for fitting Mixed
@@ -16,7 +16,7 @@ Gaussian distribution using ExpectationMaximization technique.
 
 Used: AngularJS, html5, CoffeeScript, Bootstrap, Yeoman
 
-![screenshot of GaussianMixtureEM webpage](/image/GaussianMixtureEM.png)
+![screenshot of GaussianMixtureEM webpage](image/GaussianMixtureEM.png)
 
 ## Web Framework Contribution: todomvc
 I contributed [AgilityJs](http://agilityjs.com/) implementation for
