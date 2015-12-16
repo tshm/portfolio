@@ -6,7 +6,7 @@ layout: index
 Single page web application for calculating MD5 for
 given files.
 
-Used: Javascript/AngularJS, HTML5, Bootstrap, Yeoman/NPM/Grunt
+Used: Javascript/Elm, HTML5, Picnic CSS
 
 <img src="image/md5html.png" alt="screenshot of md5html webpage" width="300px">
 
