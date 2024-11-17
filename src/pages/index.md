@@ -1,6 +1,8 @@
 ---
-layout: index
+layout: ../layouts/Layout.astro
+title: Projects
 ---
+
 # My side projects
 
 ## npm package: [elm-doctest](https://github.com/tshm/elm-doctest)
@@ -41,7 +43,7 @@ Used: Javascript/AgilityJs/JQuery, HTML5
 ## StackOverflow Reputation
 
 I have been providing answer to `Javascript`/`AngularJS` related
-questions at 
+questions at
 [StackOverflow](http://stackoverflow.com/users/1238847/tosh-shimayama).
 
 <a href="http://stackoverflow.com/users/1238847/tosh-shimayama">
@@ -53,7 +55,7 @@ questions at
 Other works can be viewed at my github repository list page.
 Including:
 
-* Java programming
-* Learning excersize for Haskell
-* C++ math library
-* etc.
+- Java programming
+- Learning excersize for Haskell
+- C++ math library
+- etc.
